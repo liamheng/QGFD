@@ -1,4 +1,4 @@
-# Quaternion-generic-Fourier-descriptor-QGFD-
+# Quaternion-generic-Fourier-descriptor (QGFD)
 This repository provides code of Quaternion generic Fourier descriptor (QGFD) for color object recognition.
 
 Quaternion toolbox for Matlab is necessary to use this package. It is available from Sangwine's personal page,  http://privatewww.essex.ac.uk/~sjs/.
