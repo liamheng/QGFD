@@ -1,5 +1,5 @@
 # Quaternion-generic-Fourier-descriptor-QGFD-
-Quaternion generic Fourier descriptor for color object recognition
+This repository provides code of Quaternion generic Fourier descriptor for color object recognition.
 
 GFD_main.m is to show calculation of generic Fourier descriptor for an image.
 QGFD_main.m is to show calculation of calculate quaternion generic Fourier descriptor for an image.
