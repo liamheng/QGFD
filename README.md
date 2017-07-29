@@ -4,6 +4,7 @@ This repository provides code of Quaternion generic Fourier descriptor (QGFD) fo
 <img alt="scratch" src="qgfd.png" width='500'>  
 <sub><b>Figure 1: </b> The main idea of QGFD. (a) an example image, (b) Fourier spectra distributions of (a), (c) image(a) rotated by 90◦, (d) Fourier spectra distributions of (c), (e) the polar image of (a), (f) Fourier spectra distributions of (e), (g) the polar image of (c), (h) Fourier spectra distributions of (g).</sub> 
 
+
 GFD_main.m is to show calculation of generic Fourier descriptor for an image.
 QGFD_main.m is to show calculation of calculate quaternion generic Fourier descriptor for an image.
 qgfd.m, input a color image and output the feature of QGFD.
