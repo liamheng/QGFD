@@ -3,8 +3,8 @@ This repository provides code of Quaternion generic Fourier descriptor (QGFD) fo
 
 Quaternion toolbox for Matlab is necessary to use this package. It is available from Sangwine's personal page,  http://privatewww.essex.ac.uk/~sjs/.
 
-1. GFD_main.m is to show calculation of generic Fourier descriptor for an image.
-2. QGFD_main.m is to show calculation of calculate quaternion generic Fourier descriptor for an image.
+1. GFD_main.m is to show the calculation of generic Fourier descriptor for an image.
+2. QGFD_main.m is to show the calculation of calculate quaternion generic Fourier descriptor for an image.
 3. qgfd.m, input a color image and output the feature of QGFD.
 4. center.m and imc2q.m are subfunctions for the calution of QFGD.
 
